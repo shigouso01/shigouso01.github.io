@@ -1,0 +1,30 @@
+body{
+    background-color:lightcyan;
+}
+
+h1{
+    text-align: center;
+    width: 100%;
+    font-size: 60px;
+}
+
+div{
+    text-align: center;
+    font-size:20px;
+}
+figure{
+    text-align: center;
+    width: 100%;
+}
+#pie{
+    border: solid;
+    border-radius: 15px;
+    background-color: cadetblue;
+    font-style: italic;
+}
+
+#textopie{
+    text-align: center;
+    font-size: 20px;
+    
+}
